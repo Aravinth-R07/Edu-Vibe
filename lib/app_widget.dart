@@ -25,6 +25,7 @@ class _MyAppState extends ConsumerState<MyApp> {
 
     return CupertinoApp(
       title: 'MyApp',
+      debugShowCheckedModeBanner: false,
       theme: isDarkMode
           ? const CupertinoThemeData(brightness: Brightness.dark)
           : const CupertinoThemeData(brightness: Brightness.light),

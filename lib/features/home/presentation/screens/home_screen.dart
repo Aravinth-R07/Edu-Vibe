@@ -4,7 +4,7 @@ import '../../../auth/presentation/providers/auth_provider.dart';
 import '../../../auth/presentation/screens/sign_in_screen.dart';
 
 class HomeScreen extends ConsumerWidget {
-  const HomeScreen({Key? key}) : super(key: key);
+  const HomeScreen({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
