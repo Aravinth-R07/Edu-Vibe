@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141784473088",
+    "project_id": "eduvibe-flutter",
+    "storage_bucket": "eduvibe-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141784473088:android:8572697df913f1305042e5",
+        "android_client_info": {
+          "package_name": "com.example.eduvibe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTRJePvm9ZO2TuJMPWpifjGbczIslh4rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
